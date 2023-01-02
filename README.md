@@ -103,7 +103,7 @@ Initially designed to run on a Raspberry Pi, probably it can run on many other
 Linux distributions. A Docker version of Pi.Alert can be found here: [jokob-sk/Pi.Alert](https://github.com/jokob-sk/Pi.Alert)
 
 - One-step Automated Install:
-  #### `curl -sSL https://github.com/leiweibau/Pi.Alert/raw/main/install/pialert_install.sh | bash`
+  #### `curl -sSL https://raw.githubusercontent.com/madpabz/Pi.Alert/main/install/pialert_install.sh | bash`
 
 - [Installation Guide (step by step)](docs/INSTALL.md)
 
@@ -112,7 +112,7 @@ Linux distributions. A Docker version of Pi.Alert can be found here: [jokob-sk/P
 This update script is only recommended for an already existing installation of this fork. The script is still being tested.
 
 - One-step Automated Update:
-  #### `curl -sSL https://github.com/leiweibau/Pi.Alert/raw/main/install/pialert_update.sh | bash`
+  #### `curl -sSL https://raw.githubusercontent.com/madpabz/Pi.Alert/main/install/ | bash`
 
 # Uninstall process
 <!--- --------------------------------------------------------------------- --->
